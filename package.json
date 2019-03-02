@@ -1,0 +1,21 @@
+{
+  "name": "interview-prep",
+  "version": "1.0.0",
+  "description": "interview-prep",
+  "main": "no",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "keywords": [
+    "n"
+  ],
+  "author": "jamon douglas",
+  "license": "ISC"
+}
